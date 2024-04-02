@@ -1,0 +1,1 @@
+# Cwiczenia.10PetlaConsole
